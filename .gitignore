@@ -1,0 +1,17 @@
+**/target/
+**/.mvn
+mvnw*
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+!**/src/test/**/build/
+
+### VS Code ###
+**/.vscode/
